@@ -1,0 +1,2 @@
+2024-10-09 	 07:17:40 PM	33342c4f-eee5-4f1d-8276-3a5025648285	https://www.youtube.com	/api/auth/login	Error: Not allowed by CORS
+2024-10-09 	 07:17:40 PM	afd2a7ab-5d98-421e-b442-4f17dd266f95	https://www.youtube.com	/api/auth/login	Error: Not allowed by CORS
